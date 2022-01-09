@@ -4,14 +4,11 @@
   - [Fotos do Projeto](#fotos-do-projeto)
 - [Requisitos](#requisitos)
 
+## Sobre o Projeto
 
+Esse projeto foi criado para matéria de Web Front-End da faculdade, seguindo o modelo do [HTML5UP](https://html5up.net/), indicado pelo professor. Foi utilizado HTML, CSS e JavaScript neste desenvolvimento, conforme as orientações e regras passadas pelo professor.
 
-## Sobre
-
-O projeto criado a partir de um modelo do 
-[HTML5UP](https://html5up.net/), e tem como finalidade em utilizar um website c/ HTML,CSS E JS para entrega avaliativa, conforme as orientações e regras passadas pelo professor.
-
-## Fotos do Projeto
+## Galeria
 
 <img src="https://user-images.githubusercontent.com/44379238/85303311-b2650580-b480-11ea-9631-5bb3ba86d8da.png" widht = 300 height = 500>
 
