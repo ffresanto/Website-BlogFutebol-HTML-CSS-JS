@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-Esse projeto foi criado para matéria de Web Front-End da faculdade, seguindo o modelo do [HTML5UP](https://html5up.net/), indicado pelo professor. Foi utilizado HTML, CSS e JavaScript neste desenvolvimento, conforme as orientações e regras passadas pelo professor.
+Esse projeto foi criado para matéria de Web Front-End da faculdade UNINOVE, seguindo o modelo do [HTML5UP](https://html5up.net/), indicado pelo professor. Foi utilizado HTML, CSS e JavaScript neste desenvolvimento, conforme as orientações e regras passadas pelo professor.
 
 ## Galeria
 
